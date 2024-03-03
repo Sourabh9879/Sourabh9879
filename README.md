@@ -1,21 +1,17 @@
-- 👋 Hi, I’m @Sourabh Gond
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sourabh.124x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sourabh) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sourabh@9879&theme=blueberry&hide_border=false)<br/>
 
 
-Tech Skills:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
-[![Shell Script Badge](https://img.shields.io/badge/-Shell%20Script-yellow?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+---
+[![](https://visitcount.itsvg.in/api?id=Sourabh@9879&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-<!---
-Sourabh9879/Sourabh9879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

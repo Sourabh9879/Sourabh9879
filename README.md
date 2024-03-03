@@ -1,18 +1,6 @@
-- 👋 Hi, I’m @Sourabh9879
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Skills
-
-**HTML:** [![HTML](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f1f5.svg)](https://www.google.com/search?q=html5)
-
-**CSS:** [![CSS](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f4ad.svg)](https://www.google.com/search?q=css3)
-
-**JavaScript:** [![JS](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f5a8.svg)](https://www.google.com/search?q=javascript)
-
+- 👋 Hi, I’m @Sourabh Gond
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js
 <!---
 Sourabh9879/Sourabh9879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

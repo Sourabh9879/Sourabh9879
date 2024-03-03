@@ -5,6 +5,13 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Skills
+
+**HTML:** [![HTML](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f1f5.svg)](https://www.google.com/search?q=html5)
+
+**CSS:** [![CSS](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f4ad.svg)](https://www.google.com/search?q=css3)
+
+**JavaScript:** [![JS](https://raw.githubusercontent.com/twemoji/twemoji/master/svg/1f5a8.svg)](https://www.google.com/search?q=javascript)
 
 <!---
 Sourabh9879/Sourabh9879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

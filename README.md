@@ -11,7 +11,7 @@ const sourabh = {
   pronouns: "He" | "Him",
   age: "19",
   askMeAbout: ["web dev"],
-  currentFocus: "Learning React","NodeJs",
+  currentFocus: "Learning MERN🍀,
 };
 ```
 

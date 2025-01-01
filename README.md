@@ -2,7 +2,7 @@
 <center>
   
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sourabh.124x) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sourabh.094) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-gond-63a3b2280) 
 [![x](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Real_Sourabh98) 
 
